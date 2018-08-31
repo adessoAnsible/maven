@@ -3,3 +3,4 @@
   apt:
     name: maven
     state: present
+  become: yes
